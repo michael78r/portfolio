@@ -1105,7 +1105,7 @@ textarea {
 /* --------------------------------------------------------------------
  * ## additional column stackpoints 
  * -------------------------------------------------------------------- */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 900px) {
 
     .stack-on-1000,
     .block-stack-on-1000>.column {
